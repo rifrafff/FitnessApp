@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "130427751483",
+    "project_id": "fitnessapp-da302",
+    "storage_bucket": "fitnessapp-da302.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130427751483:android:485ce78371ea94ca03a01e",
+        "android_client_info": {
+          "package_name": "com.rose.fitnessapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwI6lGFIpaUF6I67e-aSBgh3dTn2_C03w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
